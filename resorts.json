@@ -1,0 +1,5489 @@
+[
+  {
+    "id": "601da07eb6ed67d4",
+    "en": "Whistler Blackcomb",
+    "zh": "惠斯勒黑梳山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 3306.6863827430398,
+    "notes": "公布可滑面积；欧洲多为雪道面积；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 6
+      }
+    ],
+    "aliases": [
+      "Whistler Blackcomb",
+      "惠斯勒黑梳山"
+    ],
+    "children": [
+      "ce2e33b39500d5c6",
+      "05ed80eb22833358"
+    ]
+  },
+  {
+    "id": "f99c5eb6b99fffd2",
+    "en": "Niseko United",
+    "zh": "二世古联合",
+    "country": "日本",
+    "region": "北海道",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1169.1368204313599,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 25
+      }
+    ],
+    "aliases": [
+      "Niseko United",
+      "二世古联合"
+    ],
+    "children": [
+      "545382c76a41b0bf",
+      "8f0ff53cf44ddab9",
+      "29b396fd18612949",
+      "348d14212b182ab7"
+    ]
+  },
+  {
+    "id": "2de170090f678a76",
+    "en": "Hakuba Valley",
+    "zh": "白马山谷十雪场",
+    "country": "日本",
+    "region": "长野县",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 941,
+    "notes": "10场历史面积合计941ha；2016官方11场956ha扣除不在现名单的Yanaba15ha。扩建后面积待更新；明细见组成表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 17
+      }
+    ],
+    "aliases": [
+      "Hakuba Valley",
+      "白马山谷十雪场"
+    ],
+    "children": [
+      "170b0bdcb892cfa6",
+      "44145639101be4ea",
+      "b398aa5209f9ed26",
+      "3489f4c00b823f0f",
+      "3102be06ba5fa8a0",
+      "eb08e4a26cb74c1a",
+      "288124cc8b7c38eb",
+      "26b9e5d429d7e11b",
+      "780c06dc0d27a0a6",
+      "ccf88edd515e0dae"
+    ]
+  },
+  {
+    "id": "2d592c9c96389d52",
+    "en": "Park City Mountain",
+    "zh": "帕克城",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 2954.205188352,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 7
+      }
+    ],
+    "aliases": [
+      "Park City Mountain",
+      "帕克城"
+    ],
+    "children": []
+  },
+  {
+    "id": "0a7461faf2986fba",
+    "en": "SkiBig3",
+    "zh": "班夫三大雪场",
+    "country": "加拿大",
+    "region": "艾伯塔省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 3135.50435607552,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 6
+      }
+    ],
+    "aliases": [
+      "SkiBig3",
+      "班夫三大雪场"
+    ],
+    "children": [
+      "347966fc99a1d531",
+      "57424b493da2f8e3",
+      "0bd5609f1916a3ab"
+    ]
+  },
+  {
+    "id": "aed95a4fd0c9eb9e",
+    "en": "Aoshan Ski Resort",
+    "zh": "鳌山滑雪场",
+    "country": "中国",
+    "region": "陕西省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 35,
+    "notes": "官网造雪面积35万㎡；83/124公顷报道口径不一致，保守采用官网",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 26
+      }
+    ],
+    "aliases": [
+      "Aoshan Ski Resort",
+      "鳌山滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "6b5c4b81d6eade2f",
+    "en": "Arxan Taiwei Ski Resort",
+    "zh": "阿尔山太伟滑雪场",
+    "country": "中国",
+    "region": "内蒙古自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 26,
+    "notes": "公开雪场面积，非净雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 33
+      }
+    ],
+    "aliases": [
+      "Arxan Taiwei Ski Resort",
+      "阿尔山太伟滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "1df7d9ebe1205e69",
+    "en": "Baiyun International Ski Resort",
+    "zh": "白云国际滑雪场",
+    "country": "中国",
+    "region": "新疆维吾尔自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 35,
+    "notes": "项目资料；与早期27万㎡口径有差异",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 27
+      }
+    ],
+    "aliases": [
+      "Baiyun International Ski Resort",
+      "白云国际滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "a7118637d9aab8bb",
+    "en": "Beidahu Ski Resort",
+    "zh": "北大湖",
+    "country": "中国",
+    "region": "吉林省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 275,
+    "notes": "2026年吉林省政府公布雪道面积275公顷",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 54
+      },
+      {
+        "sheet": "中国 Top30参考",
+        "row": 8
+      }
+    ],
+    "aliases": [
+      "Beidahu Ski Resort",
+      "北大湖",
+      "北大湖滑雪度假区"
+    ],
+    "children": []
+  },
+  {
+    "id": "d615d803a038da57",
+    "en": "Changbaishan Huamei Resort",
+    "zh": "长白山华美胜地滑雪场",
+    "country": "中国",
+    "region": "吉林省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 32,
+    "notes": "原鲁能胜地；2023年山地雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 28
+      }
+    ],
+    "aliases": [
+      "Changbaishan Huamei Resort",
+      "长白山华美胜地滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "8069f0f5cef8314f",
+    "en": "Changchengling Ski Resort",
+    "zh": "长城岭滑雪场",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 16,
+    "notes": "政府体育部门公开雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 35
+      }
+    ],
+    "aliases": [
+      "Changchengling Ski Resort",
+      "长城岭滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "ea75f14f8487e4f2",
+    "en": "Changchun Lianhuashan Ski Resort",
+    "zh": "长春莲花山滑雪场",
+    "country": "中国",
+    "region": "吉林省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 28,
+    "notes": "2025年公开雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 32
+      }
+    ],
+    "aliases": [
+      "Changchun Lianhuashan Ski Resort",
+      "长春莲花山滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "a877a8336159cb56",
+    "en": "Cuiyunshan Galaxy Ski Resort",
+    "zh": "翠云山银河滑雪场",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 30,
+    "notes": "2024年公开雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 29
+      }
+    ],
+    "aliases": [
+      "Cuiyunshan Galaxy Ski Resort",
+      "翠云山银河滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "d2419472b1c64226",
+    "en": "Daihai International Ski Resort",
+    "zh": "岱海国际滑雪场",
+    "country": "中国",
+    "region": "内蒙古自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 40,
+    "notes": "旅游平台公布滑雪面积，非全度假区",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 25
+      }
+    ],
+    "aliases": [
+      "Daihai International Ski Resort",
+      "岱海国际滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "67583f795d9c9c80",
+    "en": "Duolemeidi Mountain Resort",
+    "zh": "多乐美地滑雪场",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 30,
+    "notes": "公开下限30余万㎡",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 30
+      }
+    ],
+    "aliases": [
+      "Duolemeidi Mountain Resort",
+      "多乐美地滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "8abcad58a823f191",
+    "en": "Fulong Four Seasons Resort",
+    "zh": "富龙四季小镇",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 180,
+    "notes": "造雪面积，可能包含教学/娱雪空间",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 12
+      }
+    ],
+    "aliases": [
+      "Fulong Four Seasons Resort",
+      "富龙四季小镇"
+    ],
+    "children": []
+  },
+  {
+    "id": "c1c35013c0182bff",
+    "en": "Jiangjunshan International Ski Resort",
+    "zh": "将军山国际滑雪度假区",
+    "country": "中国",
+    "region": "新疆维吾尔自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 500,
+    "notes": "2026年公布；200公顷雪道+300公顷野雪区域，非纯雪道",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 46
+      },
+      {
+        "sheet": "中国 Top30参考",
+        "row": 6
+      }
+    ],
+    "aliases": [
+      "Jiangjunshan International Ski Resort",
+      "将军山国际滑雪度假区"
+    ],
+    "children": []
+  },
+  {
+    "id": "4a5e6a27dab6c29f",
+    "en": "Jikepulin International Ski Resort",
+    "zh": "吉克普林国际滑雪度假区",
+    "country": "中国",
+    "region": "新疆维吾尔自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 392,
+    "notes": "103条雪道；392公顷部分报道仍称规划口径，实际开放面积待确认",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 7
+      }
+    ],
+    "aliases": [
+      "Jikepulin International Ski Resort",
+      "吉克普林国际滑雪度假区"
+    ],
+    "children": []
+  },
+  {
+    "id": "21502664ce197aa4",
+    "en": "Jinlongshan Ski Resort",
+    "zh": "扎兰屯金龙山滑雪场",
+    "country": "中国",
+    "region": "内蒙古自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 102,
+    "notes": "公开雪道面积，18条雪道",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 20
+      }
+    ],
+    "aliases": [
+      "Jinlongshan Ski Resort",
+      "扎兰屯金龙山滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "9cd971c5c255a417",
+    "en": "Jinshanling Galaxy Ski Resort",
+    "zh": "金山岭银河滑雪场",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 165,
+    "notes": "政府报道165万㎡；与规划数据相同，2025/26仅18条雪道，运营面积待核",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 13
+      }
+    ],
+    "aliases": [
+      "Jinshanling Galaxy Ski Resort",
+      "金山岭银河滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "15f98b8de42fc4e3",
+    "en": "Keketuohai International Ski Resort",
+    "zh": "可可托海国际滑雪度假区",
+    "country": "中国",
+    "region": "新疆维吾尔自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 193,
+    "notes": "富蕴旅游发布雪道面积；不纳入山外野雪",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 11
+      }
+    ],
+    "aliases": [
+      "Keketuohai International Ski Resort",
+      "可可托海国际滑雪度假区"
+    ],
+    "children": []
+  },
+  {
+    "id": "44b787b6cfc4886d",
+    "en": "Lake Songhua Resort",
+    "zh": "中旅松花湖",
+    "country": "中国",
+    "region": "吉林省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 230,
+    "notes": "2025/26业主公布滑雪面积230万㎡；替代Ikon页面的旧240 acres",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 59
+      },
+      {
+        "sheet": "中国 Top30参考",
+        "row": 9
+      }
+    ],
+    "aliases": [
+      "Lake Songhua Resort",
+      "中旅松花湖",
+      "中旅松花湖度假区"
+    ],
+    "children": []
+  },
+  {
+    "id": "b8a98b0cd35bd901",
+    "en": "Miaoxiangshan Ski Resort",
+    "zh": "庙香山滑雪场",
+    "country": "中国",
+    "region": "吉林省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 60,
+    "notes": "2023年铺雪60万㎡；不采用108万㎡规划",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 23
+      }
+    ],
+    "aliases": [
+      "Miaoxiangshan Ski Resort",
+      "庙香山滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "5e2d6c7c8d84b6b7",
+    "en": "Nalati Hayinsai Ski Resort",
+    "zh": "那拉提海因赛滑雪场",
+    "country": "中国",
+    "region": "新疆维吾尔自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 42,
+    "notes": "2025年政府公布雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 24
+      }
+    ],
+    "aliases": [
+      "Nalati Hayinsai Ski Resort",
+      "那拉提海因赛滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "9f9d34db5e6a8876",
+    "en": "Qinggeli Langshan Ski Resort",
+    "zh": "青格里狼山滑雪场",
+    "country": "中国",
+    "region": "新疆维吾尔自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 160,
+    "notes": "公布造雪面积160万㎡；已建11条，规划42条；现运营面积口径待核",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 14
+      }
+    ],
+    "aliases": [
+      "Qinggeli Langshan Ski Resort",
+      "青格里狼山滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "865d4de139f0f55b",
+    "en": "Silk Road Mountain Resort",
+    "zh": "丝绸之路山地度假区",
+    "country": "中国",
+    "region": "新疆维吾尔自治区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 120,
+    "notes": "体育总局公布口径；与170公顷旅游平台口径有差异",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 15
+      }
+    ],
+    "aliases": [
+      "Silk Road Mountain Resort",
+      "丝绸之路山地度假区"
+    ],
+    "children": []
+  },
+  {
+    "id": "6ef5fcada21f539f",
+    "en": "Taiwoo Ski Resort",
+    "zh": "太舞滑雪小镇",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 80,
+    "notes": "公开雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 22
+      }
+    ],
+    "aliases": [
+      "Taiwoo Ski Resort",
+      "太舞滑雪小镇"
+    ],
+    "children": []
+  },
+  {
+    "id": "e9f26e61edcd81c8",
+    "en": "Wanda Changbaishan International Ski Resort",
+    "zh": "万达长白山国际滑雪场",
+    "country": "中国",
+    "region": "吉林省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 94,
+    "notes": "雪道94万㎡；不采用7平方公里度假区占地",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 21
+      }
+    ],
+    "aliases": [
+      "Wanda Changbaishan International Ski Resort",
+      "万达长白山国际滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "0bec27579346890f",
+    "en": "Wanfeng Tonghua Ski Resort",
+    "zh": "万峰通化滑雪度假区",
+    "country": "中国",
+    "region": "吉林省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 117,
+    "notes": "政府发布造雪面积117万㎡",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 17
+      }
+    ],
+    "aliases": [
+      "Wanfeng Tonghua Ski Resort",
+      "万峰通化滑雪度假区"
+    ],
+    "children": []
+  },
+  {
+    "id": "d630292381cd450e",
+    "en": "Wanlong Ski Resort",
+    "zh": "万龙滑雪场",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 120,
+    "notes": "雪道面积下限；不计未核实野雪区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 16
+      }
+    ],
+    "aliases": [
+      "Wanlong Ski Resort",
+      "万龙滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "b2d9328032741779",
+    "en": "Xiling Snow Mountain Ski Resort",
+    "zh": "西岭雪山滑雪场",
+    "country": "中国",
+    "region": "四川省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 20,
+    "notes": "2026官网20万㎡；排除景区8平方公里",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 34
+      }
+    ],
+    "aliases": [
+      "Xiling Snow Mountain Ski Resort",
+      "西岭雪山滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "5149c1be4eb93fa4",
+    "en": "Xueruyi Ski Resort",
+    "zh": "雪如意滑雪场",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 110,
+    "notes": "2025/26公开雪道/造雪面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 18
+      }
+    ],
+    "aliases": [
+      "Xueruyi Ski Resort",
+      "雪如意滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "5b532893d17f2326",
+    "en": "Yabuli United Ski Area",
+    "zh": "亚布力三山联滑区",
+    "country": "中国",
+    "region": "黑龙江省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 225,
+    "notes": "2025年三山联滑；不重复计入阳光单场",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 10
+      }
+    ],
+    "aliases": [
+      "Yabuli United Ski Area",
+      "亚布力三山联滑区"
+    ],
+    "children": []
+  },
+  {
+    "id": "e393cf67287e4c60",
+    "en": "Yunding Snow Park",
+    "zh": "密苑云顶乐园",
+    "country": "中国",
+    "region": "河北省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 104.00421005567999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 75
+      },
+      {
+        "sheet": "中国 Top30参考",
+        "row": 19
+      }
+    ],
+    "aliases": [
+      "Yunding Snow Park",
+      "密苑云顶乐园"
+    ],
+    "children": []
+  },
+  {
+    "id": "735f64a29527ef0e",
+    "en": "Yuyang International Ski Resort",
+    "zh": "渔阳国际滑雪场",
+    "country": "中国",
+    "region": "北京市",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 30,
+    "notes": "公布雪场占地，含服务/娱乐区；非净雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "中国 Top30参考",
+        "row": 31
+      }
+    ],
+    "aliases": [
+      "Yuyang International Ski Resort",
+      "渔阳国际滑雪场"
+    ],
+    "children": []
+  },
+  {
+    "id": "3b2014a2ca485bfb",
+    "en": "Apex Mountain Resort",
+    "zh": "阿佩克斯山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 450.01043417088,
+    "notes": "公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 53
+      }
+    ],
+    "aliases": [
+      "Apex Mountain Resort",
+      "阿佩克斯山"
+    ],
+    "children": []
+  },
+  {
+    "id": "d954bd43b1ff3bad",
+    "en": "Big White",
+    "zh": "大白山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1146.87911010816,
+    "notes": "巡逻覆盖可滑区；不使用7759 acres总山地范围",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 15
+      }
+    ],
+    "aliases": [
+      "Big White",
+      "大白山"
+    ],
+    "children": []
+  },
+  {
+    "id": "c9d16a2db2f5a63c",
+    "en": "Blue Mountain",
+    "zh": "蓝山（安省）",
+    "country": "加拿大",
+    "region": "安大略省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 147.71025941759999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 71
+      }
+    ],
+    "aliases": [
+      "Blue Mountain",
+      "蓝山（安省）"
+    ],
+    "children": []
+  },
+  {
+    "id": "a13e660991aeb39e",
+    "en": "Castle Mountain Resort",
+    "zh": "城堡山",
+    "country": "加拿大",
+    "region": "艾伯塔省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1453.6308269260799,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 11
+      }
+    ],
+    "aliases": [
+      "Castle Mountain Resort",
+      "城堡山"
+    ],
+    "children": []
+  },
+  {
+    "id": "70c9329d7b005635",
+    "en": "Cypress Mountain",
+    "zh": "赛普里斯山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 242.81138534399997,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 57
+      }
+    ],
+    "aliases": [
+      "Cypress Mountain",
+      "赛普里斯山"
+    ],
+    "children": []
+  },
+  {
+    "id": "a71bae9df6a51c21",
+    "en": "Fernie Alpine Resort",
+    "zh": "弗尼",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1011.7141055999999,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 16
+      }
+    ],
+    "aliases": [
+      "Fernie Alpine Resort",
+      "弗尼"
+    ],
+    "children": []
+  },
+  {
+    "id": "20a1d21e945d23f6",
+    "en": "Grouse Mountain",
+    "zh": "松鸡山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 89.43552693503999,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 80
+      }
+    ],
+    "aliases": [
+      "Grouse Mountain",
+      "松鸡山"
+    ],
+    "children": []
+  },
+  {
+    "id": "acc9df231fe6e8f2",
+    "en": "Kicking Horse Mountain Resort",
+    "zh": "踢马",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1410.73414884864,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 11
+      }
+    ],
+    "aliases": [
+      "Kicking Horse Mountain Resort",
+      "踢马"
+    ],
+    "children": []
+  },
+  {
+    "id": "e8e5c111f5571adc",
+    "en": "Kimberley Alpine Resort",
+    "zh": "金伯利",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 728.4341560319999,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 21
+      }
+    ],
+    "aliases": [
+      "Kimberley Alpine Resort",
+      "金伯利"
+    ],
+    "children": []
+  },
+  {
+    "id": "1236045d565e7727",
+    "en": "Le Massif de Charlevoix",
+    "zh": "沙勒沃大山",
+    "country": "加拿大",
+    "region": "魁北克省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 164.30237074944,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 68
+      }
+    ],
+    "aliases": [
+      "Le Massif de Charlevoix",
+      "沙勒沃大山"
+    ],
+    "children": []
+  },
+  {
+    "id": "eecbac7881b3d3ce",
+    "en": "Marmot Basin",
+    "zh": "旱獭盆地",
+    "country": "加拿大",
+    "region": "艾伯塔省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 696.0593046527999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 30
+      }
+    ],
+    "aliases": [
+      "Marmot Basin",
+      "旱獭盆地"
+    ],
+    "children": []
+  },
+  {
+    "id": "77993bf003ba2bd9",
+    "en": "Mont-Sainte-Anne",
+    "zh": "圣安妮山",
+    "country": "加拿大",
+    "region": "魁北克省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 221.5,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 31
+      }
+    ],
+    "aliases": [
+      "Mont-Sainte-Anne",
+      "圣安妮山"
+    ],
+    "children": []
+  },
+  {
+    "id": "3163d580412c37a8",
+    "en": "Mount Washington Alpine Resort",
+    "zh": "华盛顿山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 687.965591808,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 32
+      }
+    ],
+    "aliases": [
+      "Mount Washington Alpine Resort",
+      "华盛顿山"
+    ],
+    "children": []
+  },
+  {
+    "id": "3175d6d491a1df72",
+    "en": "Nakiska",
+    "zh": "纳基斯卡",
+    "country": "加拿大",
+    "region": "艾伯塔省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 413.18404072704,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 27
+      }
+    ],
+    "aliases": [
+      "Nakiska",
+      "纳基斯卡"
+    ],
+    "children": []
+  },
+  {
+    "id": "4a8e81ad7dc31030",
+    "en": "Panorama",
+    "zh": "全景山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1203.9397856639998,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 23
+      }
+    ],
+    "aliases": [
+      "Panorama",
+      "全景山"
+    ],
+    "children": []
+  },
+  {
+    "id": "05874739a8cad002",
+    "en": "RED Mountain",
+    "zh": "红山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1558.039722624,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 14
+      }
+    ],
+    "aliases": [
+      "RED Mountain",
+      "红山"
+    ],
+    "children": []
+  },
+  {
+    "id": "8c42ee6c0a861063",
+    "en": "Revelstoke Mountain Resort",
+    "zh": "雷夫尔斯托克",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1263.0238894310398,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 20
+      }
+    ],
+    "aliases": [
+      "Revelstoke Mountain Resort",
+      "雷夫尔斯托克"
+    ],
+    "children": []
+  },
+  {
+    "id": "6c0e09e5ec3d052e",
+    "en": "SilverStar Mountain",
+    "zh": "银星山",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1337.0813619609598,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 19
+      }
+    ],
+    "aliases": [
+      "SilverStar Mountain",
+      "银星山"
+    ],
+    "children": []
+  },
+  {
+    "id": "f1b64b5ba96600bb",
+    "en": "Stoneham",
+    "zh": "斯通汉姆",
+    "country": "加拿大",
+    "region": "魁北克省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 135.8,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 33
+      }
+    ],
+    "aliases": [
+      "Stoneham",
+      "斯通汉姆"
+    ],
+    "children": []
+  },
+  {
+    "id": "a845faecb72b4dc3",
+    "en": "Sun Peaks Resort",
+    "zh": "太阳峰",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1780.6168258559999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 11
+      }
+    ],
+    "aliases": [
+      "Sun Peaks Resort",
+      "太阳峰"
+    ],
+    "children": []
+  },
+  {
+    "id": "f290933cf46ba5aa",
+    "en": "Tremblant",
+    "zh": "蒙特朗布朗",
+    "country": "加拿大",
+    "region": "魁北克省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 308.37045938688,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 51
+      }
+    ],
+    "aliases": [
+      "Tremblant",
+      "蒙特朗布朗"
+    ],
+    "children": []
+  },
+  {
+    "id": "7837a622a6344914",
+    "en": "Whitewater Mountain Resort",
+    "zh": "白水",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1314.01428035328,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 12
+      }
+    ],
+    "aliases": [
+      "Whitewater Mountain Resort",
+      "白水"
+    ],
+    "children": []
+  },
+  {
+    "id": "7487fe8027e917cc",
+    "en": "Kitzbühel",
+    "zh": "基茨比厄尔",
+    "country": "奥地利",
+    "region": "蒂罗尔州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 575.05829762304,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 42
+      }
+    ],
+    "aliases": [
+      "Kitzbühel",
+      "基茨比厄尔"
+    ],
+    "children": []
+  },
+  {
+    "id": "5c4ad20a8798f092",
+    "en": "Saalbach & Zell am See-Kaprun",
+    "zh": "萨尔巴赫及滨湖采尔—卡普伦",
+    "country": "奥地利",
+    "region": "萨尔茨堡州/蒂罗尔州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 58
+      }
+    ],
+    "aliases": [
+      "Saalbach & Zell am See-Kaprun",
+      "萨尔巴赫及滨湖采尔—卡普伦"
+    ],
+    "children": [
+      "a4c038d3955313a5",
+      "a3060ab62fe5a3d5",
+      "823e4371971887ee"
+    ]
+  },
+  {
+    "id": "07470f99608d97f6",
+    "en": "Serfaus–Fiss–Ladis",
+    "zh": "瑟弗斯—菲斯—拉迪斯",
+    "country": "奥地利",
+    "region": "蒂罗尔州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 460,
+    "notes": "官方雪道图公布雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 52
+      }
+    ],
+    "aliases": [
+      "Serfaus–Fiss–Ladis",
+      "瑟弗斯—菲斯—拉迪斯"
+    ],
+    "children": []
+  },
+  {
+    "id": "e3cd32841593f855",
+    "en": "Silvretta Montafon",
+    "zh": "锡尔夫雷塔蒙塔丰",
+    "country": "奥地利",
+    "region": "福拉尔贝格州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 59
+      }
+    ],
+    "aliases": [
+      "Silvretta Montafon",
+      "锡尔夫雷塔蒙塔丰"
+    ],
+    "children": []
+  },
+  {
+    "id": "436d20c29cb5f68f",
+    "en": "Ski Arlberg",
+    "zh": "阿尔贝格",
+    "country": "奥地利",
+    "region": "蒂罗尔州/福拉尔贝格州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾；兑换有指定住宿条件；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 60
+      }
+    ],
+    "aliases": [
+      "Ski Arlberg",
+      "阿尔贝格"
+    ],
+    "children": [
+      "5033f205163d4524",
+      "e05dfebc202a9f0e",
+      "714f18dd2914367a",
+      "3ce144e7be4c0748",
+      "ed096eee1be2a2ac",
+      "54b8d6055be9bbe9",
+      "d474aa30128c4879"
+    ]
+  },
+  {
+    "id": "867ef2e536d8c244",
+    "en": "SkiWelt Wilder Kaiser–Brixental",
+    "zh": "滑雪世界皇帝山—布里克森谷",
+    "country": "奥地利",
+    "region": "蒂罗尔州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 680,
+    "notes": "第三方公布面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 33
+      }
+    ],
+    "aliases": [
+      "SkiWelt Wilder Kaiser–Brixental",
+      "滑雪世界皇帝山—布里克森谷"
+    ],
+    "children": []
+  },
+  {
+    "id": "9a76ef5406c8971f",
+    "en": "Sölden",
+    "zh": "索尔登",
+    "country": "奥地利",
+    "region": "蒂罗尔州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 429,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 26
+      }
+    ],
+    "aliases": [
+      "Sölden",
+      "索尔登"
+    ],
+    "children": []
+  },
+  {
+    "id": "4145e1e9a01fccd8",
+    "en": "Zillertal",
+    "zh": "齐勒谷",
+    "country": "奥地利",
+    "region": "蒂罗尔州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 63
+      }
+    ],
+    "aliases": [
+      "Zillertal",
+      "齐勒谷"
+    ],
+    "children": [
+      "9c9cb1d6f85a57d0",
+      "9974a19d66519387",
+      "4b497ddb2857c651",
+      "617a7d85dc374a8e",
+      "362a3962d0c38e42"
+    ]
+  },
+  {
+    "id": "37960cf3ae293331",
+    "en": "Ischgl",
+    "zh": "伊施格尔—萨姆瑙恩",
+    "country": "奥地利/瑞士",
+    "region": "蒂罗尔州/格劳宾登州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 515.16482257152,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 44
+      }
+    ],
+    "aliases": [
+      "Ischgl",
+      "伊施格尔—萨姆瑙恩"
+    ],
+    "children": []
+  },
+  {
+    "id": "d632d3166448a787",
+    "en": "Grandvalira Resorts Andorra",
+    "zh": "安道尔格兰瓦利拉集团",
+    "country": "安道尔",
+    "region": "多教区",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 3075.2061953817597,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 7
+      }
+    ],
+    "aliases": [
+      "Grandvalira Resorts Andorra",
+      "安道尔格兰瓦利拉集团"
+    ],
+    "children": [
+      "ae1bc7e57fd5a5ca",
+      "62dd82286bbdbad1",
+      "b50eabaf1e3287cc"
+    ]
+  },
+  {
+    "id": "a862b3973980486f",
+    "en": "Dolomiti Superski",
+    "zh": "多洛米蒂超级滑雪区",
+    "country": "意大利",
+    "region": "特伦蒂诺—上阿迪杰/威尼托",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": null,
+    "notes": "12个雪区组合；约30,000 acres为山地范围，缺少同口径面积，未用于排序；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 90
+      }
+    ],
+    "aliases": [
+      "Dolomiti Superski",
+      "多洛米蒂超级滑雪区"
+    ],
+    "children": [
+      "5a174e145f98ffb3",
+      "26c0f6523b18feeb",
+      "d6bc9c02968525b6",
+      "803e733a7d545ad2",
+      "aa011b1cc871bc9c",
+      "68df10e0fef3deda",
+      "ba08519b40a86bbb",
+      "b7387125def94432",
+      "11e1375b103fb0e2",
+      "89a5f078ae447432",
+      "5807bc8d512a3d6d",
+      "8e8625d3090fec27"
+    ]
+  },
+  {
+    "id": "d688c03e1ed97533",
+    "en": "Skirama Dolomiti Adamello Brenta",
+    "zh": "斯基拉马多洛米蒂八雪区",
+    "country": "意大利",
+    "region": "特伦蒂诺/伦巴第",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 61
+      }
+    ],
+    "aliases": [
+      "Skirama Dolomiti Adamello Brenta",
+      "斯基拉马多洛米蒂八雪区"
+    ],
+    "children": [
+      "b1e9becf754eb945",
+      "51647c70c182ea59",
+      "b753b24c5a185569",
+      "b7c167989f7edb1e",
+      "6b927ff3dfe810d5",
+      "f6ecc548a3444928",
+      "014f51482ff47ab2",
+      "eb86dc572eacaf2d"
+    ]
+  },
+  {
+    "id": "14047977da62b468",
+    "en": "Valle d’Aosta",
+    "zh": "奥斯塔山谷五雪区",
+    "country": "意大利/法国",
+    "region": "奥斯塔大区/萨瓦省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1538.61481179648,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 15
+      }
+    ],
+    "aliases": [
+      "Valle d’Aosta",
+      "奥斯塔山谷五雪区"
+    ],
+    "children": [
+      "b7139fa98fb77f00",
+      "34878725e72f8c1e",
+      "da68d73fb03699a8",
+      "c49e2efba83d38f4",
+      "1fe3a40dc05db302"
+    ]
+  },
+  {
+    "id": "a2d5cde2ac004819",
+    "en": "Cardrona Alpine Resort",
+    "zh": "卡德罗纳",
+    "country": "新西兰",
+    "region": "奥塔哥大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 615,
+    "notes": "含2025年Soho Basin扩建",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 40
+      }
+    ],
+    "aliases": [
+      "Cardrona Alpine Resort",
+      "卡德罗纳"
+    ],
+    "children": []
+  },
+  {
+    "id": "668254c66f0345ed",
+    "en": "Coronet Peak, The Remarkables, Mt Hutt",
+    "zh": "皇冠峰、卓越山、赫特山",
+    "country": "新西兰",
+    "region": "奥塔哥大区/坎特伯雷大区",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1029.9249595008,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 28
+      }
+    ],
+    "aliases": [
+      "Coronet Peak, The Remarkables, Mt Hutt",
+      "皇冠峰、卓越山、赫特山"
+    ],
+    "children": [
+      "4597336069f23668",
+      "b182fdc0bba0dbfe",
+      "9612696105ba06ad"
+    ]
+  },
+  {
+    "id": "3913f1cd4814666f",
+    "en": "Roundhill",
+    "zh": "圆山",
+    "country": "新西兰",
+    "region": "坎特伯雷大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 550,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 42
+      }
+    ],
+    "aliases": [
+      "Roundhill",
+      "圆山"
+    ],
+    "children": []
+  },
+  {
+    "id": "2a5f45dd1a16aa3e",
+    "en": "Treble Cone",
+    "zh": "三锥山",
+    "country": "新西兰",
+    "region": "奥塔哥大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 550,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 43
+      }
+    ],
+    "aliases": [
+      "Treble Cone",
+      "三锥山"
+    ],
+    "children": []
+  },
+  {
+    "id": "9f6f7ea20d2b9bd8",
+    "en": "Tūroa",
+    "zh": "图罗瓦",
+    "country": "新西兰",
+    "region": "马纳瓦图—旺加努伊大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 500,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 49
+      }
+    ],
+    "aliases": [
+      "Tūroa",
+      "图罗瓦"
+    ],
+    "children": []
+  },
+  {
+    "id": "e942f9737b8681d0",
+    "en": "Whakapapa",
+    "zh": "瓦卡帕帕",
+    "country": "新西兰",
+    "region": "马纳瓦图—旺加努伊大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 550,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 44
+      }
+    ],
+    "aliases": [
+      "Whakapapa",
+      "瓦卡帕帕"
+    ],
+    "children": []
+  },
+  {
+    "id": "956a7efe77bda4b0",
+    "en": "APPI Resort",
+    "zh": "安比高原",
+    "country": "日本",
+    "region": "岩手县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 250.9050981888,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 56
+      }
+    ],
+    "aliases": [
+      "APPI Resort",
+      "安比高原"
+    ],
+    "children": []
+  },
+  {
+    "id": "e817b7238198122f",
+    "en": "Arai Mountain Resort",
+    "zh": "乐天新井",
+    "country": "日本",
+    "region": "新潟县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 210.4365339648,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 60
+      }
+    ],
+    "aliases": [
+      "Arai Mountain Resort",
+      "乐天新井"
+    ],
+    "children": []
+  },
+  {
+    "id": "9f692a99d1d6c1a6",
+    "en": "Furano Ski Resort",
+    "zh": "富良野",
+    "country": "日本",
+    "region": "北海道",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 193.84442263295998,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 61
+      }
+    ],
+    "aliases": [
+      "Furano Ski Resort",
+      "富良野"
+    ],
+    "children": []
+  },
+  {
+    "id": "bf76a77d0ae18c0a",
+    "en": "Madarao Mountain Resort",
+    "zh": "斑尾高原",
+    "country": "日本",
+    "region": "长野县/新潟县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 90.24489821952,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 78
+      }
+    ],
+    "aliases": [
+      "Madarao Mountain Resort",
+      "斑尾高原"
+    ],
+    "children": []
+  },
+  {
+    "id": "0e08bc5125b1c218",
+    "en": "Mt.T",
+    "zh": "谷川岳天神平",
+    "country": "日本",
+    "region": "群马县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 94.69644028415999,
+    "notes": "官方公布下限；按下限排序",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 77
+      }
+    ],
+    "aliases": [
+      "Mt.T",
+      "谷川岳天神平"
+    ],
+    "children": []
+  },
+  {
+    "id": "b2f94f73169d154a",
+    "en": "Myoko Suginohara Ski Resort",
+    "zh": "妙高杉之原",
+    "country": "日本",
+    "region": "新潟县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 89.84021257728,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 79
+      }
+    ],
+    "aliases": [
+      "Myoko Suginohara Ski Resort",
+      "妙高杉之原"
+    ],
+    "children": []
+  },
+  {
+    "id": "ec331e1d05cc4552",
+    "en": "Nekoma Mountain",
+    "zh": "猫魔山",
+    "country": "日本",
+    "region": "福岛县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 188.98819492607998,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 62
+      }
+    ],
+    "aliases": [
+      "Nekoma Mountain",
+      "猫魔山"
+    ],
+    "children": [
+      "c44a220c6ea517be",
+      "837f78591bc011ee"
+    ]
+  },
+  {
+    "id": "61ae2a764c47a252",
+    "en": "Rusutsu Resort",
+    "zh": "留寿都",
+    "country": "日本",
+    "region": "北海道",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 557.65681500672,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 23
+      }
+    ],
+    "aliases": [
+      "Rusutsu Resort",
+      "留寿都"
+    ],
+    "children": []
+  },
+  {
+    "id": "fc02c2f99cc9ac49",
+    "en": "Shiga Kogen Mountain Resort",
+    "zh": "志贺高原",
+    "country": "日本",
+    "region": "长野县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 399.82941453312,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 49
+      }
+    ],
+    "aliases": [
+      "Shiga Kogen Mountain Resort",
+      "志贺高原"
+    ],
+    "children": [
+      "b4a757a8b1481c2c",
+      "f395e97ccc02c29e",
+      "e4f16efb24f30dba",
+      "bb3393592eaad06c",
+      "43522283c132d97d",
+      "da25bd6f6bb12ed8",
+      "12a3d2c2b014edb9",
+      "c83fda107cc10565",
+      "ca6cc8dc2e4905b3",
+      "7ae03240a396cf2d",
+      "8709625d999edae3",
+      "352f6891dffbbccb",
+      "b3ef8afcf1d361ce",
+      "9becbe8038b837c4",
+      "ca18a0a1b340a218",
+      "a5f95e48ccd46bcb",
+      "16969e3fdec8fbef",
+      "e0e95e6427c5b97e"
+    ]
+  },
+  {
+    "id": "1ab51849b6adc64f",
+    "en": "Zao Onsen Ski Resort",
+    "zh": "藏王温泉",
+    "country": "日本",
+    "region": "山形县",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 186.15539543039998,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 63
+      }
+    ],
+    "aliases": [
+      "Zao Onsen Ski Resort",
+      "藏王温泉"
+    ],
+    "children": []
+  },
+  {
+    "id": "6e857096b2a717c8",
+    "en": "Corralco",
+    "zh": "科拉尔科",
+    "country": "智利",
+    "region": "阿劳卡尼亚大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1800,
+    "notes": "国家旅游局公布整体可滑区；远大于维护雪道范围",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 9
+      }
+    ],
+    "aliases": [
+      "Corralco",
+      "科拉尔科"
+    ],
+    "children": []
+  },
+  {
+    "id": "f82d1a7614d100a7",
+    "en": "El Colorado",
+    "zh": "埃尔科罗拉多",
+    "country": "智利",
+    "region": "圣地亚哥首都大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 700,
+    "notes": "2026年智利竞争监管机构披露滑雪区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 29
+      }
+    ],
+    "aliases": [
+      "El Colorado",
+      "埃尔科罗拉多"
+    ],
+    "children": []
+  },
+  {
+    "id": "82f83b9cbd92648a",
+    "en": "La Parva",
+    "zh": "拉帕尔瓦",
+    "country": "智利",
+    "region": "圣地亚哥首都大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 800,
+    "notes": "2026年智利竞争监管机构披露滑雪区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 25
+      }
+    ],
+    "aliases": [
+      "La Parva",
+      "拉帕尔瓦"
+    ],
+    "children": []
+  },
+  {
+    "id": "fc53b57f44e57a2e",
+    "en": "Nevados de Chillán",
+    "zh": "内瓦多斯德奇廉",
+    "country": "智利",
+    "region": "纽布莱大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 500,
+    "notes": "仅纳入维护开放的500公顷；不纳入10,000公顷山地总范围",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 47
+      }
+    ],
+    "aliases": [
+      "Nevados de Chillán",
+      "内瓦多斯德奇廉"
+    ],
+    "children": []
+  },
+  {
+    "id": "90b26d3854ad0572",
+    "en": "Ski Portillo",
+    "zh": "波蒂略",
+    "country": "智利",
+    "region": "瓦尔帕莱索大区",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 500,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 48
+      }
+    ],
+    "aliases": [
+      "Ski Portillo",
+      "波蒂略"
+    ],
+    "children": []
+  },
+  {
+    "id": "b75f31f5b6f472d7",
+    "en": "Valle Nevado",
+    "zh": "内华达山谷",
+    "country": "智利",
+    "region": "圣地亚哥首都大区",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 971.2455413759999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 33
+      }
+    ],
+    "aliases": [
+      "Valle Nevado",
+      "内华达山谷"
+    ],
+    "children": []
+  },
+  {
+    "id": "cf40fcdcca6adb43",
+    "en": "Alpe d’Huez Grand Domaine Ski",
+    "zh": "阿尔普迪埃兹大雪区",
+    "country": "法国",
+    "region": "伊泽尔省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 840,
+    "notes": "可滑840公顷；非10,000公顷整个山区",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 22
+      }
+    ],
+    "aliases": [
+      "Alpe d’Huez Grand Domaine Ski",
+      "阿尔普迪埃兹大雪区"
+    ],
+    "children": []
+  },
+  {
+    "id": "dad0476f74eb3d0f",
+    "en": "Chamonix Mont-Blanc Valley",
+    "zh": "霞慕尼勃朗峰山谷",
+    "country": "法国",
+    "region": "上萨瓦省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": null,
+    "notes": "官方标示 29405 acres，但疑含度假区/山地总范围，不能当作雪道面积；待核；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 89
+      }
+    ],
+    "aliases": [
+      "Chamonix Mont-Blanc Valley",
+      "霞慕尼勃朗峰山谷"
+    ],
+    "children": [
+      "1263f6620649437d",
+      "dd5f554c75baae63",
+      "2e6ee6a7ac9d39a2",
+      "d029ca963ceb5095",
+      "e51cbdae31a3a0db"
+    ]
+  },
+  {
+    "id": "84c8996f5613f8d3",
+    "en": "Les 2 Alpes",
+    "zh": "双阿尔卑斯",
+    "country": "法国",
+    "region": "伊泽尔省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 410,
+    "notes": "仅标记雪道，不计另外800公顷freeride空间",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 54
+      }
+    ],
+    "aliases": [
+      "Les 2 Alpes",
+      "双阿尔卑斯"
+    ],
+    "children": []
+  },
+  {
+    "id": "c0835214bf0f91df",
+    "en": "Les 3 Vallées",
+    "zh": "三山谷",
+    "country": "法国",
+    "region": "萨瓦省",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1500,
+    "notes": "公布可滑面积；欧洲多为雪道面积；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 10
+      }
+    ],
+    "aliases": [
+      "Les 3 Vallées",
+      "三山谷"
+    ],
+    "children": [
+      "1363aca7c59f6621",
+      "a1669433d5d85eb7",
+      "54a67799d690b86c",
+      "4df4dda1258fcf95",
+      "d5bbe9fbfb039667",
+      "9cc0e090652b1b44",
+      "a659b9427984e486"
+    ]
+  },
+  {
+    "id": "8f216bb24e60dd2f",
+    "en": "Megève Ski Area",
+    "zh": "梅杰夫",
+    "country": "法国",
+    "region": "上萨瓦省",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 799.254143424,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 37
+      }
+    ],
+    "aliases": [
+      "Megève Ski Area",
+      "梅杰夫"
+    ],
+    "children": []
+  },
+  {
+    "id": "f56f3913873e98a4",
+    "en": "Paradiski",
+    "zh": "天堂滑雪区",
+    "country": "法国",
+    "region": "萨瓦省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1066,
+    "notes": "La Plagne + Les Arcs/Peisey-Vallandry联滑；雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 16
+      }
+    ],
+    "aliases": [
+      "Paradiski",
+      "天堂滑雪区"
+    ],
+    "children": []
+  },
+  {
+    "id": "66d584edccc0e0ef",
+    "en": "Serre Chevalier",
+    "zh": "塞尔舍瓦利耶",
+    "country": "法国",
+    "region": "上阿尔卑斯省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 410,
+    "notes": "标记雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 55
+      }
+    ],
+    "aliases": [
+      "Serre Chevalier",
+      "塞尔舍瓦利耶"
+    ],
+    "children": []
+  },
+  {
+    "id": "3e2a775704855e49",
+    "en": "Tignes–Val d’Isère",
+    "zh": "蒂涅—瓦勒迪泽尔",
+    "country": "法国",
+    "region": "萨瓦省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 3680,
+    "notes": "官网现行ski area口径；含非雪道地形，不等同压雪道",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 6
+      }
+    ],
+    "aliases": [
+      "Tignes–Val d’Isère",
+      "蒂涅—瓦勒迪泽尔"
+    ],
+    "children": []
+  },
+  {
+    "id": "56ff3e8fe4a7e5f3",
+    "en": "Falls Creek",
+    "zh": "福尔斯溪",
+    "country": "澳大利亚",
+    "region": "维多利亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 450,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 25
+      }
+    ],
+    "aliases": [
+      "Falls Creek",
+      "福尔斯溪"
+    ],
+    "children": []
+  },
+  {
+    "id": "cb7f39c8e8f8e97a",
+    "en": "Hotham",
+    "zh": "霍瑟姆山",
+    "country": "澳大利亚",
+    "region": "维多利亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 320,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 28
+      }
+    ],
+    "aliases": [
+      "Hotham",
+      "霍瑟姆山"
+    ],
+    "children": []
+  },
+  {
+    "id": "d2ca9bff89509568",
+    "en": "Mt Buller",
+    "zh": "布勒山",
+    "country": "澳大利亚",
+    "region": "维多利亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 299.87206089984,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 52
+      }
+    ],
+    "aliases": [
+      "Mt Buller",
+      "布勒山"
+    ],
+    "children": []
+  },
+  {
+    "id": "990683aafc24df5a",
+    "en": "Perisher",
+    "zh": "佩里舍",
+    "country": "澳大利亚",
+    "region": "新南威尔士州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1245,
+    "notes": "公布可滑面积；欧洲多为雪道面积；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 14
+      }
+    ],
+    "aliases": [
+      "Perisher",
+      "佩里舍"
+    ],
+    "children": [
+      "2d5fc190216b52d0",
+      "d5fb569953fb9235",
+      "2787ae86a37e7de7",
+      "6eb3ba3b4beb4a54"
+    ]
+  },
+  {
+    "id": "8d18a543ea410140",
+    "en": "Thredbo",
+    "zh": "斯雷德博",
+    "country": "澳大利亚",
+    "region": "新南威尔士州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 479.95717169664,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 47
+      }
+    ],
+    "aliases": [
+      "Thredbo",
+      "斯雷德博"
+    ],
+    "children": []
+  },
+  {
+    "id": "98a89faffd6bcffb",
+    "en": "Andermatt-Sedrun-Disentis",
+    "zh": "安德马特—塞德龙—迪森蒂斯",
+    "country": "瑞士",
+    "region": "乌里州/格劳宾登州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 56
+      }
+    ],
+    "aliases": [
+      "Andermatt-Sedrun-Disentis",
+      "安德马特—塞德龙—迪森蒂斯"
+    ],
+    "children": [
+      "64452acaa69823bf",
+      "7e6635ad054887c6",
+      "91f3a5ffa6470abc",
+      "b716a522b7587a21"
+    ]
+  },
+  {
+    "id": "8c483f8f563f97aa",
+    "en": "Crans-Montana",
+    "zh": "克莱恩蒙塔纳",
+    "country": "瑞士",
+    "region": "瓦莱州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 57
+      }
+    ],
+    "aliases": [
+      "Crans-Montana",
+      "克莱恩蒙塔纳"
+    ],
+    "children": []
+  },
+  {
+    "id": "dd2ce62a90311642",
+    "en": "St. Moritz",
+    "zh": "圣莫里茨",
+    "country": "瑞士",
+    "region": "格劳宾登州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": null,
+    "notes": "官方标示 86487 acres，但疑含度假区/山地总范围，不能当作雪道面积；待核；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 92
+      }
+    ],
+    "aliases": [
+      "St. Moritz",
+      "圣莫里茨"
+    ],
+    "children": [
+      "0366a4c7133bb5ee",
+      "1c7fe317b4ecd3cc",
+      "3378d801965550e6",
+      "db0459a3b6690fb5",
+      "6443c4fe48ac83ac",
+      "9fd241aca70d3377",
+      "587a16a82bf1af14",
+      "efed54ab2075e06f",
+      "7cab00e0d0f651e1"
+    ]
+  },
+  {
+    "id": "42675bae622f66e5",
+    "en": "Verbier 4 Vallées",
+    "zh": "韦尔比耶四山谷",
+    "country": "瑞士",
+    "region": "瓦莱州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": null,
+    "notes": "已确认PASS支持；未找到可靠且同口径面积，置于表尾；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 62
+      }
+    ],
+    "aliases": [
+      "Verbier 4 Vallées",
+      "韦尔比耶四山谷"
+    ],
+    "children": [
+      "b95e1fabcc8f21e4",
+      "d36a27490978de20",
+      "21023bbab815d791",
+      "53cbce76578d886c",
+      "9063e56e935fd167",
+      "6250404a2cddae26"
+    ]
+  },
+  {
+    "id": "4fe0a35f77334fb7",
+    "en": "Zermatt Matterhorn",
+    "zh": "采尔马特—马特洪峰",
+    "country": "瑞士",
+    "region": "瓦莱州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1416.39974784,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 18
+      }
+    ],
+    "aliases": [
+      "Zermatt Matterhorn",
+      "采尔马特—马特洪峰"
+    ],
+    "children": []
+  },
+  {
+    "id": "8840bbdd8ec82c4e",
+    "en": "49 Degrees North",
+    "zh": "北纬49度",
+    "country": "美国",
+    "region": "华盛顿州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 940.8941182079999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 19
+      }
+    ],
+    "aliases": [
+      "49 Degrees North",
+      "北纬49度"
+    ],
+    "children": []
+  },
+  {
+    "id": "b4411270537b468f",
+    "en": "Afton Alps",
+    "zh": "阿夫顿阿尔卑斯",
+    "country": "美国",
+    "region": "明尼苏达州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 121.40569267199999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 36
+      }
+    ],
+    "aliases": [
+      "Afton Alps",
+      "阿夫顿阿尔卑斯"
+    ],
+    "children": []
+  },
+  {
+    "id": "87a9887d18ada78b",
+    "en": "Alpine Valley (Ohio)",
+    "zh": "阿尔派恩谷（俄亥俄）",
+    "country": "美国",
+    "region": "俄亥俄州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 29.13736624128,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 50
+      }
+    ],
+    "aliases": [
+      "Alpine Valley (Ohio)",
+      "阿尔派恩谷（俄亥俄）"
+    ],
+    "children": []
+  },
+  {
+    "id": "63f67f64d1c2b23f",
+    "en": "Alta Ski Area",
+    "zh": "阿尔塔",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1057.84826881536,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 26
+      }
+    ],
+    "aliases": [
+      "Alta Ski Area",
+      "阿尔塔"
+    ],
+    "children": []
+  },
+  {
+    "id": "77296763ca837ba9",
+    "en": "Alyeska Resort",
+    "zh": "阿里耶斯卡",
+    "country": "美国",
+    "region": "阿拉斯加州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 651.5438840063999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 38
+      }
+    ],
+    "aliases": [
+      "Alyeska Resort",
+      "阿里耶斯卡"
+    ],
+    "children": []
+  },
+  {
+    "id": "0a02323f0e4f53de",
+    "en": "Arapahoe Basin",
+    "zh": "阿拉帕霍盆地",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 577.8910971187199,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 41
+      }
+    ],
+    "aliases": [
+      "Arapahoe Basin",
+      "阿拉帕霍盆地"
+    ],
+    "children": []
+  },
+  {
+    "id": "2fc2c5853b5b5595",
+    "en": "Aspen Snowmass",
+    "zh": "阿斯彭雪堆山四雪场",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 2232.65068823808,
+    "notes": "公布可滑地形；可能包含非压雪道区域；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 10
+      }
+    ],
+    "aliases": [
+      "Aspen Snowmass",
+      "阿斯彭雪堆山四雪场"
+    ],
+    "children": [
+      "fb5279e2207e3edf",
+      "cca7446d94bc9925",
+      "e001043fbf998786",
+      "05f44442d84435d9"
+    ]
+  },
+  {
+    "id": "32e770b908ac373c",
+    "en": "Attitash",
+    "zh": "阿蒂塔什",
+    "country": "美国",
+    "region": "新罕布什尔州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 125.85723473664,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 35
+      }
+    ],
+    "aliases": [
+      "Attitash",
+      "阿蒂塔什"
+    ],
+    "children": []
+  },
+  {
+    "id": "6fec3f395262ebc6",
+    "en": "Bear Valley",
+    "zh": "熊谷",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 679.8718789632,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 34
+      }
+    ],
+    "aliases": [
+      "Bear Valley",
+      "熊谷"
+    ],
+    "children": []
+  },
+  {
+    "id": "37e9465531cd15ae",
+    "en": "Beaver Creek",
+    "zh": "比弗溪",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 842.55550714368,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 19
+      }
+    ],
+    "aliases": [
+      "Beaver Creek",
+      "比弗溪"
+    ],
+    "children": []
+  },
+  {
+    "id": "6837cd99e911d090",
+    "en": "Big Bear Mountain Resort",
+    "zh": "大熊山度假区",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 177.25231130112,
+    "notes": "Bear Mountain 198 + Snow Summit 240 acres；Snow Valley另列，避免678 acres重复计算；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 64
+      }
+    ],
+    "aliases": [
+      "Big Bear Mountain Resort",
+      "大熊山度假区"
+    ],
+    "children": [
+      "75b40226c53213bb",
+      "04394f8c1fc7de15"
+    ]
+  },
+  {
+    "id": "be2c6af7786266a1",
+    "en": "Big Boulder",
+    "zh": "巨石山",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 22.257710323199998,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 54
+      }
+    ],
+    "aliases": [
+      "Big Boulder",
+      "巨石山"
+    ],
+    "children": []
+  },
+  {
+    "id": "11919da3f9138b8b",
+    "en": "Big Sky Resort",
+    "zh": "大天空",
+    "country": "美国",
+    "region": "蒙大拿州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 2367.411007104,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 9
+      }
+    ],
+    "aliases": [
+      "Big Sky Resort",
+      "大天空"
+    ],
+    "children": []
+  },
+  {
+    "id": "069dba9f648d6b02",
+    "en": "Blue Mountain Resort",
+    "zh": "蓝山（宾州）",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 69.20124482304,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 82
+      }
+    ],
+    "aliases": [
+      "Blue Mountain Resort",
+      "蓝山（宾州）"
+    ],
+    "children": []
+  },
+  {
+    "id": "21e55516adcf98ac",
+    "en": "Bogus Basin",
+    "zh": "博格斯盆地",
+    "country": "美国",
+    "region": "爱达荷州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1052.182669824,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 18
+      }
+    ],
+    "aliases": [
+      "Bogus Basin",
+      "博格斯盆地"
+    ],
+    "children": []
+  },
+  {
+    "id": "949b5e8f7ddf747f",
+    "en": "Boston Mills / Brandywine",
+    "zh": "波士顿米尔斯／白兰地",
+    "country": "美国",
+    "region": "俄亥俄州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 35.61233651712,
+    "notes": "公布可滑地形；可能包含非压雪道区域；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 49
+      }
+    ],
+    "aliases": [
+      "Boston Mills / Brandywine",
+      "波士顿米尔斯／白兰地"
+    ],
+    "children": [
+      "e697aab7451ab770",
+      "15539c3c4de62dd3"
+    ]
+  },
+  {
+    "id": "6d090db0f1cb133f",
+    "en": "Boyne Mountain",
+    "zh": "博因山",
+    "country": "美国",
+    "region": "密歇根州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 176.0382543744,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 65
+      }
+    ],
+    "aliases": [
+      "Boyne Mountain",
+      "博因山"
+    ],
+    "children": []
+  },
+  {
+    "id": "3a6c1b035f559a82",
+    "en": "Breckenridge",
+    "zh": "布雷肯里奇",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1176.82584763392,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 15
+      }
+    ],
+    "aliases": [
+      "Breckenridge",
+      "布雷肯里奇"
+    ],
+    "children": []
+  },
+  {
+    "id": "4e9a0b67a43c3939",
+    "en": "Bridger Bowl",
+    "zh": "布里杰盆地",
+    "country": "美国",
+    "region": "蒙大拿州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 809.37128448,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 23
+      }
+    ],
+    "aliases": [
+      "Bridger Bowl",
+      "布里杰盆地"
+    ],
+    "children": []
+  },
+  {
+    "id": "dc26ff6e3fa70a55",
+    "en": "Brighton",
+    "zh": "布莱顿",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 424.91992435199995,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 48
+      }
+    ],
+    "aliases": [
+      "Brighton",
+      "布莱顿"
+    ],
+    "children": []
+  },
+  {
+    "id": "517a7011e08a56c3",
+    "en": "Brundage Mountain",
+    "zh": "布伦戴奇山",
+    "country": "美国",
+    "region": "爱达荷州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 776.9964331008,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 26
+      }
+    ],
+    "aliases": [
+      "Brundage Mountain",
+      "布伦戴奇山"
+    ],
+    "children": []
+  },
+  {
+    "id": "01ae7fcf6d426a8f",
+    "en": "Buck Hill",
+    "zh": "巴克山",
+    "country": "美国",
+    "region": "明尼苏达州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 18.2108539008,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 88
+      }
+    ],
+    "aliases": [
+      "Buck Hill",
+      "巴克山"
+    ],
+    "children": []
+  },
+  {
+    "id": "aab5ebfe178cc58c",
+    "en": "Camelback Resort",
+    "zh": "驼峰山",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 67.17781661184,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 85
+      }
+    ],
+    "aliases": [
+      "Camelback Resort",
+      "驼峰山"
+    ],
+    "children": []
+  },
+  {
+    "id": "c32effc16b831250",
+    "en": "China Peak",
+    "zh": "中国峰",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 566.559899136,
+    "notes": "页面正文1400，地图小节1200；按正文并标记冲突",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 41
+      }
+    ],
+    "aliases": [
+      "China Peak",
+      "中国峰"
+    ],
+    "children": []
+  },
+  {
+    "id": "16f4e4cfba8c0eb2",
+    "en": "Copper Mountain",
+    "zh": "铜山",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1027.09216000512,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 29
+      }
+    ],
+    "aliases": [
+      "Copper Mountain",
+      "铜山"
+    ],
+    "children": []
+  },
+  {
+    "id": "0068c762da7619c7",
+    "en": "Cranmore Mountain Resort",
+    "zh": "克兰莫尔",
+    "country": "美国",
+    "region": "新罕布什尔州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 68.7965591808,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 83
+      }
+    ],
+    "aliases": [
+      "Cranmore Mountain Resort",
+      "克兰莫尔"
+    ],
+    "children": []
+  },
+  {
+    "id": "58f260aa012e93f3",
+    "en": "Crested Butte",
+    "zh": "克雷斯特德比特",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 626.04868854528,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 22
+      }
+    ],
+    "aliases": [
+      "Crested Butte",
+      "克雷斯特德比特"
+    ],
+    "children": []
+  },
+  {
+    "id": "fe17d006c223c369",
+    "en": "Crotched Mountain",
+    "zh": "克罗切德山",
+    "country": "美国",
+    "region": "新罕布什尔州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 40.468564224,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 46
+      }
+    ],
+    "aliases": [
+      "Crotched Mountain",
+      "克罗切德山"
+    ],
+    "children": []
+  },
+  {
+    "id": "5bd7b6c2bab52115",
+    "en": "Crystal Mountain Resort",
+    "zh": "水晶山",
+    "country": "美国",
+    "region": "华盛顿州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1052.182669824,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 27
+      }
+    ],
+    "aliases": [
+      "Crystal Mountain Resort",
+      "水晶山"
+    ],
+    "children": []
+  },
+  {
+    "id": "396fed6b8e9c834e",
+    "en": "Deer Valley Resort",
+    "zh": "鹿谷",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1740.148261632,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 13
+      }
+    ],
+    "aliases": [
+      "Deer Valley Resort",
+      "鹿谷"
+    ],
+    "children": []
+  },
+  {
+    "id": "3ff45db892630165",
+    "en": "Devils Head Resort",
+    "zh": "魔鬼头",
+    "country": "美国",
+    "region": "威斯康星州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 121.40569267199999,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 72
+      }
+    ],
+    "aliases": [
+      "Devils Head Resort",
+      "魔鬼头"
+    ],
+    "children": []
+  },
+  {
+    "id": "53430dcd8a4980e6",
+    "en": "Discovery Ski Area",
+    "zh": "发现山",
+    "country": "美国",
+    "region": "蒙大拿州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 890.3084129279999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 20
+      }
+    ],
+    "aliases": [
+      "Discovery Ski Area",
+      "发现山"
+    ],
+    "children": []
+  },
+  {
+    "id": "16b9d0dbe56db855",
+    "en": "Eldora Mountain Resort",
+    "zh": "埃尔多拉",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 275.1862367232,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 53
+      }
+    ],
+    "aliases": [
+      "Eldora Mountain Resort",
+      "埃尔多拉"
+    ],
+    "children": []
+  },
+  {
+    "id": "92260062cfd0114b",
+    "en": "Giants Ridge",
+    "zh": "巨人岭",
+    "country": "美国",
+    "region": "明尼苏达州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 81.74649973247999,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 81
+      }
+    ],
+    "aliases": [
+      "Giants Ridge",
+      "巨人岭"
+    ],
+    "children": []
+  },
+  {
+    "id": "7e57d5cf478d5f0c",
+    "en": "Grand Targhee Resort",
+    "zh": "大塔基",
+    "country": "美国",
+    "region": "怀俄明州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1052.99204110848,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 17
+      }
+    ],
+    "aliases": [
+      "Grand Targhee Resort",
+      "大塔基"
+    ],
+    "children": []
+  },
+  {
+    "id": "90cf99c9c9f7f3f9",
+    "en": "Granite Peak Resort",
+    "zh": "花岗岩峰",
+    "country": "美国",
+    "region": "威斯康星州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 106.02763826687999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 73
+      }
+    ],
+    "aliases": [
+      "Granite Peak Resort",
+      "花岗岩峰"
+    ],
+    "children": []
+  },
+  {
+    "id": "16e99e2fee2ae7a9",
+    "en": "Heavenly",
+    "zh": "天堂山",
+    "country": "美国",
+    "region": "加利福尼亚州/内华达州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1942.4910827519998,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 9
+      }
+    ],
+    "aliases": [
+      "Heavenly",
+      "天堂山"
+    ],
+    "children": []
+  },
+  {
+    "id": "3f68f8866933a223",
+    "en": "Hidden Valley (Missouri)",
+    "zh": "隐谷（密苏里）",
+    "country": "美国",
+    "region": "密苏里州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 26.3045667456,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 52
+      }
+    ],
+    "aliases": [
+      "Hidden Valley (Missouri)",
+      "隐谷（密苏里）"
+    ],
+    "children": []
+  },
+  {
+    "id": "ed3367d9d1056bed",
+    "en": "Hidden Valley (Pennsylvania)",
+    "zh": "隐谷（宾州）",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 44.515420646399996,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 44
+      }
+    ],
+    "aliases": [
+      "Hidden Valley (Pennsylvania)",
+      "隐谷（宾州）"
+    ],
+    "children": []
+  },
+  {
+    "id": "103d744372998f24",
+    "en": "Homewood Mountain Resort",
+    "zh": "霍姆伍德",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 509.9039092224,
+    "notes": "公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 45
+      }
+    ],
+    "aliases": [
+      "Homewood Mountain Resort",
+      "霍姆伍德"
+    ],
+    "children": []
+  },
+  {
+    "id": "f365225cba160be5",
+    "en": "Hunter Mountain",
+    "zh": "亨特山",
+    "country": "美国",
+    "region": "纽约州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 129.49940551679998,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 34
+      }
+    ],
+    "aliases": [
+      "Hunter Mountain",
+      "亨特山"
+    ],
+    "children": []
+  },
+  {
+    "id": "ad42aac50611ee77",
+    "en": "Jack Frost",
+    "zh": "杰克弗罗斯特",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 40.468564224,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 47
+      }
+    ],
+    "aliases": [
+      "Jack Frost",
+      "杰克弗罗斯特"
+    ],
+    "children": []
+  },
+  {
+    "id": "0072336fe8246206",
+    "en": "Jackson Hole Mountain Resort",
+    "zh": "杰克逊霍尔",
+    "country": "美国",
+    "region": "怀俄明州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1011.7141055999999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 30
+      }
+    ],
+    "aliases": [
+      "Jackson Hole Mountain Resort",
+      "杰克逊霍尔"
+    ],
+    "children": []
+  },
+  {
+    "id": "d8f78a43535e55a6",
+    "en": "Jiminy Peak",
+    "zh": "吉米尼峰",
+    "country": "美国",
+    "region": "马萨诸塞州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 67.58250225408,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 84
+      }
+    ],
+    "aliases": [
+      "Jiminy Peak",
+      "吉米尼峰"
+    ],
+    "children": []
+  },
+  {
+    "id": "0349c1433b6d833b",
+    "en": "June Mountain",
+    "zh": "六月山",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 607.0284633599999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 40
+      }
+    ],
+    "aliases": [
+      "June Mountain",
+      "六月山"
+    ],
+    "children": []
+  },
+  {
+    "id": "5624e2ab3ee60176",
+    "en": "Keystone",
+    "zh": "基斯通",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1274.35508741376,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 13
+      }
+    ],
+    "aliases": [
+      "Keystone",
+      "基斯通"
+    ],
+    "children": []
+  },
+  {
+    "id": "9685cf97dd73f81d",
+    "en": "Killington - Pico",
+    "zh": "基灵顿—皮科",
+    "country": "美国",
+    "region": "佛蒙特州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 800.0635147084799,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 36
+      }
+    ],
+    "aliases": [
+      "Killington - Pico",
+      "基灵顿—皮科"
+    ],
+    "children": [
+      "d37dc42e9129c1bd",
+      "033826610cd57a7f"
+    ]
+  },
+  {
+    "id": "e53bbe98a87b8cbf",
+    "en": "Kirkwood",
+    "zh": "柯克伍德",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 930.776977152,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 18
+      }
+    ],
+    "aliases": [
+      "Kirkwood",
+      "柯克伍德"
+    ],
+    "children": []
+  },
+  {
+    "id": "84bc28fc398324b3",
+    "en": "Laurel Mountain",
+    "zh": "月桂山",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 28.327994956799998,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 51
+      }
+    ],
+    "aliases": [
+      "Laurel Mountain",
+      "月桂山"
+    ],
+    "children": []
+  },
+  {
+    "id": "31b3cfcad959cd96",
+    "en": "Liberty Mountain",
+    "zh": "自由山",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 40.468564224,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 48
+      }
+    ],
+    "aliases": [
+      "Liberty Mountain",
+      "自由山"
+    ],
+    "children": []
+  },
+  {
+    "id": "e7db92de47165149",
+    "en": "Loon Mountain",
+    "zh": "卢恩山",
+    "country": "美国",
+    "region": "新罕布什尔州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 149.7336876288,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 69
+      }
+    ],
+    "aliases": [
+      "Loon Mountain",
+      "卢恩山"
+    ],
+    "children": []
+  },
+  {
+    "id": "f65e730e3d4bedab",
+    "en": "Lost Trail Powder Mountain",
+    "zh": "迷踪粉雪山",
+    "country": "美国",
+    "region": "蒙大拿州/爱达荷州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 728.4341560319999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 27
+      }
+    ],
+    "aliases": [
+      "Lost Trail Powder Mountain",
+      "迷踪粉雪山"
+    ],
+    "children": []
+  },
+  {
+    "id": "2eb951a48db475c9",
+    "en": "Loveland Ski Area",
+    "zh": "洛夫兰",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 728.4341560319999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 28
+      }
+    ],
+    "aliases": [
+      "Loveland Ski Area",
+      "洛夫兰"
+    ],
+    "children": []
+  },
+  {
+    "id": "4c7fa7816e944840",
+    "en": "Lutsen Mountains",
+    "zh": "卢森群山",
+    "country": "美国",
+    "region": "明尼苏达州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 171.58671230976,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 67
+      }
+    ],
+    "aliases": [
+      "Lutsen Mountains",
+      "卢森群山"
+    ],
+    "children": []
+  },
+  {
+    "id": "82cb96c68ea732ce",
+    "en": "Mad River Mountain",
+    "zh": "狂河山",
+    "country": "美国",
+    "region": "俄亥俄州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 58.27473248256,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 40
+      }
+    ],
+    "aliases": [
+      "Mad River Mountain",
+      "狂河山"
+    ],
+    "children": []
+  },
+  {
+    "id": "8b1fc6b7d4da0e69",
+    "en": "Mammoth Mountain",
+    "zh": "猛犸山",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1416.39974784,
+    "notes": "官方公布下限；按下限排序",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 17
+      }
+    ],
+    "aliases": [
+      "Mammoth Mountain",
+      "猛犸山"
+    ],
+    "children": []
+  },
+  {
+    "id": "f2eb3a0bb07b6407",
+    "en": "Mission Ridge",
+    "zh": "米申山脊",
+    "country": "美国",
+    "region": "华盛顿州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 809.37128448,
+    "notes": "公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 24
+      }
+    ],
+    "aliases": [
+      "Mission Ridge",
+      "米申山脊"
+    ],
+    "children": []
+  },
+  {
+    "id": "491a88370a2dc6a8",
+    "en": "Monarch Mountain",
+    "zh": "莫纳克山",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 463.76974600704,
+    "notes": "含新增No Name Basin区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 51
+      }
+    ],
+    "aliases": [
+      "Monarch Mountain",
+      "莫纳克山"
+    ],
+    "children": []
+  },
+  {
+    "id": "e45d6c82f874f613",
+    "en": "Mount Snow",
+    "zh": "雪山",
+    "country": "美国",
+    "region": "佛蒙特州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 243.21607098624,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 30
+      }
+    ],
+    "aliases": [
+      "Mount Snow",
+      "雪山"
+    ],
+    "children": []
+  },
+  {
+    "id": "d16780cd6a0b8bd9",
+    "en": "Mount Sunapee",
+    "zh": "苏纳皮山",
+    "country": "美国",
+    "region": "新罕布什尔州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 94.29175464192,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 38
+      }
+    ],
+    "aliases": [
+      "Mount Sunapee",
+      "苏纳皮山"
+    ],
+    "children": []
+  },
+  {
+    "id": "295ca92d5195aa7f",
+    "en": "Mt. Bachelor",
+    "zh": "巴彻勒山",
+    "country": "美国",
+    "region": "俄勒冈州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1749.45603140352,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 12
+      }
+    ],
+    "aliases": [
+      "Mt. Bachelor",
+      "巴彻勒山"
+    ],
+    "children": []
+  },
+  {
+    "id": "c6d2ef5ffe9a4836",
+    "en": "Mt. Brighton",
+    "zh": "布莱顿山",
+    "country": "美国",
+    "region": "密歇根州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 52.6091334912,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 41
+      }
+    ],
+    "aliases": [
+      "Mt. Brighton",
+      "布莱顿山"
+    ],
+    "children": []
+  },
+  {
+    "id": "0f80e716de25d77f",
+    "en": "Mt. Hood Meadows",
+    "zh": "胡德山梅多斯",
+    "country": "美国",
+    "region": "俄勒冈州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 870.074130816,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 21
+      }
+    ],
+    "aliases": [
+      "Mt. Hood Meadows",
+      "胡德山梅多斯"
+    ],
+    "children": []
+  },
+  {
+    "id": "e7bb49e72527ff23",
+    "en": "Mt. Rose Ski Tahoe",
+    "zh": "玫瑰山",
+    "country": "美国",
+    "region": "内华达州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 485.62277068799995,
+    "notes": "公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 50
+      }
+    ],
+    "aliases": [
+      "Mt. Rose Ski Tahoe",
+      "玫瑰山"
+    ],
+    "children": []
+  },
+  {
+    "id": "5010378a04a0229f",
+    "en": "Mt. Spokane Ski & Snowboard Park",
+    "zh": "斯波坎山",
+    "country": "美国",
+    "region": "华盛顿州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 689.58433437696,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 31
+      }
+    ],
+    "aliases": [
+      "Mt. Spokane Ski & Snowboard Park",
+      "斯波坎山"
+    ],
+    "children": []
+  },
+  {
+    "id": "1144d0920ca7abab",
+    "en": "Northstar California",
+    "zh": "北极星",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 1282.8534859008,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 12
+      }
+    ],
+    "aliases": [
+      "Northstar California",
+      "北极星"
+    ],
+    "children": []
+  },
+  {
+    "id": "215066f9bd40de3f",
+    "en": "Okemo",
+    "zh": "奥基莫",
+    "country": "美国",
+    "region": "佛蒙特州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 269.92532337408,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 29
+      }
+    ],
+    "aliases": [
+      "Okemo",
+      "奥基莫"
+    ],
+    "children": []
+  },
+  {
+    "id": "dd143471e540878f",
+    "en": "Palisades Tahoe",
+    "zh": "帕利塞兹太浩",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 2428.1138534399997,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 8
+      }
+    ],
+    "aliases": [
+      "Palisades Tahoe",
+      "帕利塞兹太浩"
+    ],
+    "children": [
+      "d1bf157c6697cb11",
+      "3ad5870e74f98398"
+    ]
+  },
+  {
+    "id": "882aa141b158bcbb",
+    "en": "Paoli Peaks",
+    "zh": "保利峰",
+    "country": "美国",
+    "region": "印第安纳州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 26.3045667456,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 53
+      }
+    ],
+    "aliases": [
+      "Paoli Peaks",
+      "保利峰"
+    ],
+    "children": []
+  },
+  {
+    "id": "ef9e47ca62ad90b9",
+    "en": "Powder Mountain",
+    "zh": "粉雪山",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 2023.4282111999999,
+    "notes": "公共可滑地形；含巴士/徒步/导滑区域，不计私人会员扩区",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 8
+      }
+    ],
+    "aliases": [
+      "Powder Mountain",
+      "粉雪山"
+    ],
+    "children": []
+  },
+  {
+    "id": "263ac73082095d13",
+    "en": "Purgatory Resort",
+    "zh": "炼狱山",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 647.497027584,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 37
+      }
+    ],
+    "aliases": [
+      "Purgatory Resort",
+      "炼狱山"
+    ],
+    "children": []
+  },
+  {
+    "id": "85fa83cf5b536837",
+    "en": "Roundtop Mountain",
+    "zh": "圆顶山",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 41.682621150719996,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 45
+      }
+    ],
+    "aliases": [
+      "Roundtop Mountain",
+      "圆顶山"
+    ],
+    "children": []
+  },
+  {
+    "id": "1a83a360baa169ef",
+    "en": "Schweitzer",
+    "zh": "施韦策",
+    "country": "美国",
+    "region": "爱达荷州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1173.588362496,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 24
+      }
+    ],
+    "aliases": [
+      "Schweitzer",
+      "施韦策"
+    ],
+    "children": []
+  },
+  {
+    "id": "f4c03c6486ebc0f2",
+    "en": "Seven Springs",
+    "zh": "七泉",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 115.33540803839999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 37
+      }
+    ],
+    "aliases": [
+      "Seven Springs",
+      "七泉"
+    ],
+    "children": []
+  },
+  {
+    "id": "37ea1cffd4ce6901",
+    "en": "Sierra-at-Tahoe",
+    "zh": "太浩山脊",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 809.37128448,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 34
+      }
+    ],
+    "aliases": [
+      "Sierra-at-Tahoe",
+      "太浩山脊"
+    ],
+    "children": []
+  },
+  {
+    "id": "66b4b3298762d41d",
+    "en": "Silver Mountain",
+    "zh": "银山",
+    "country": "美国",
+    "region": "爱达荷州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 647.497027584,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 38
+      }
+    ],
+    "aliases": [
+      "Silver Mountain",
+      "银山"
+    ],
+    "children": []
+  },
+  {
+    "id": "bd94193adb27b185",
+    "en": "Ski Butternut",
+    "zh": "巴特纳特",
+    "country": "美国",
+    "region": "马萨诸塞州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 44.515420646399996,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 86
+      }
+    ],
+    "aliases": [
+      "Ski Butternut",
+      "巴特纳特"
+    ],
+    "children": []
+  },
+  {
+    "id": "d1c0cba63d22df4a",
+    "en": "Snow Creek",
+    "zh": "雪溪",
+    "country": "美国",
+    "region": "密苏里州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 10.117141056,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 55
+      }
+    ],
+    "aliases": [
+      "Snow Creek",
+      "雪溪"
+    ],
+    "children": []
+  },
+  {
+    "id": "6075f683e548f7e9",
+    "en": "Snow Valley",
+    "zh": "雪谷",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 97.1245541376,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 76
+      }
+    ],
+    "aliases": [
+      "Snow Valley",
+      "雪谷"
+    ],
+    "children": []
+  },
+  {
+    "id": "ba07bcedd961a367",
+    "en": "Snowbasin",
+    "zh": "雪盆",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1214.0569267199999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 22
+      }
+    ],
+    "aliases": [
+      "Snowbasin",
+      "雪盆"
+    ],
+    "children": []
+  },
+  {
+    "id": "43b3153fbbf348a8",
+    "en": "Snowbird",
+    "zh": "雪鸟",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1011.7141055999999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 31
+      }
+    ],
+    "aliases": [
+      "Snowbird",
+      "雪鸟"
+    ],
+    "children": []
+  },
+  {
+    "id": "97dac008f95bc546",
+    "en": "Snowriver Mountain Resort",
+    "zh": "雪河",
+    "country": "美国",
+    "region": "密歇根州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 149.7336876288,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 70
+      }
+    ],
+    "aliases": [
+      "Snowriver Mountain Resort",
+      "雪河"
+    ],
+    "children": [
+      "5d119fbfaf203f67",
+      "b9bf519c4e6694e8"
+    ]
+  },
+  {
+    "id": "e0b7b377b0cef4d7",
+    "en": "Snowshoe Mountain",
+    "zh": "雪鞋山",
+    "country": "美国",
+    "region": "西弗吉尼亚州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 104.00421005567999,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 74
+      }
+    ],
+    "aliases": [
+      "Snowshoe Mountain",
+      "雪鞋山"
+    ],
+    "children": []
+  },
+  {
+    "id": "2977a77e61886b8a",
+    "en": "Solitude Mountain Resort",
+    "zh": "索利图德",
+    "country": "美国",
+    "region": "犹他州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 485.62277068799995,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 46
+      }
+    ],
+    "aliases": [
+      "Solitude Mountain Resort",
+      "索利图德"
+    ],
+    "children": []
+  },
+  {
+    "id": "c20c9963f34aba70",
+    "en": "Steamboat",
+    "zh": "斯廷博特",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1513.92898761984,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 16
+      }
+    ],
+    "aliases": [
+      "Steamboat",
+      "斯廷博特"
+    ],
+    "children": []
+  },
+  {
+    "id": "2f04b81485bf0657",
+    "en": "Stevens Pass",
+    "zh": "史蒂文斯山口",
+    "country": "美国",
+    "region": "华盛顿州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 455.27134751999995,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 24
+      }
+    ],
+    "aliases": [
+      "Stevens Pass",
+      "史蒂文斯山口"
+    ],
+    "children": []
+  },
+  {
+    "id": "b05cc24ae0f1bd9d",
+    "en": "Stowe",
+    "zh": "斯托",
+    "country": "美国",
+    "region": "佛蒙特州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 196.27253648639999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 32
+      }
+    ],
+    "aliases": [
+      "Stowe",
+      "斯托"
+    ],
+    "children": []
+  },
+  {
+    "id": "840453c6d0c7f670",
+    "en": "Stratton",
+    "zh": "斯特拉顿",
+    "country": "美国",
+    "region": "佛蒙特州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 271.1393803008,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 55
+      }
+    ],
+    "aliases": [
+      "Stratton",
+      "斯特拉顿"
+    ],
+    "children": []
+  },
+  {
+    "id": "b3f60fc3afdd8846",
+    "en": "Sugar Bowl",
+    "zh": "糖碗",
+    "country": "美国",
+    "region": "加利福尼亚州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 667.7313096959999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 35
+      }
+    ],
+    "aliases": [
+      "Sugar Bowl",
+      "糖碗"
+    ],
+    "children": []
+  },
+  {
+    "id": "887d851577276ca9",
+    "en": "Sugarbush Resort",
+    "zh": "糖丛",
+    "country": "美国",
+    "region": "佛蒙特州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 235.12235814143997,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 58
+      }
+    ],
+    "aliases": [
+      "Sugarbush Resort",
+      "糖丛"
+    ],
+    "children": []
+  },
+  {
+    "id": "d265f9b97a046631",
+    "en": "Sugarloaf",
+    "zh": "舒格洛夫",
+    "country": "美国",
+    "region": "缅因州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 497.76333995519997,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 45
+      }
+    ],
+    "aliases": [
+      "Sugarloaf",
+      "舒格洛夫"
+    ],
+    "children": []
+  },
+  {
+    "id": "1ea40f960909e8d6",
+    "en": "Sun Valley",
+    "zh": "太阳谷",
+    "country": "美国",
+    "region": "爱达荷州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 985.0048532121599,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 32
+      }
+    ],
+    "aliases": [
+      "Sun Valley",
+      "太阳谷"
+    ],
+    "children": []
+  },
+  {
+    "id": "70623b33ff12fb5b",
+    "en": "Sunday River",
+    "zh": "星期日河",
+    "country": "美国",
+    "region": "缅因州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 357.74210774015995,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 50
+      }
+    ],
+    "aliases": [
+      "Sunday River",
+      "星期日河"
+    ],
+    "children": []
+  },
+  {
+    "id": "0b637eeaf7ff4fb5",
+    "en": "Tamarack Resort",
+    "zh": "塔玛拉克",
+    "country": "美国",
+    "region": "爱达荷州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 651.5438840063999,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 39
+      }
+    ],
+    "aliases": [
+      "Tamarack Resort",
+      "塔玛拉克"
+    ],
+    "children": []
+  },
+  {
+    "id": "1d8a70b94798483b",
+    "en": "Taos Ski Valley",
+    "zh": "陶斯滑雪谷",
+    "country": "美国",
+    "region": "新墨西哥州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 523.66322105856,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 43
+      }
+    ],
+    "aliases": [
+      "Taos Ski Valley",
+      "陶斯滑雪谷"
+    ],
+    "children": []
+  },
+  {
+    "id": "50ce44853936903e",
+    "en": "Telluride",
+    "zh": "特柳赖德",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 809.37128448,
+    "notes": "公布可滑面积；欧洲多为雪道面积",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 20
+      }
+    ],
+    "aliases": [
+      "Telluride",
+      "特柳赖德"
+    ],
+    "children": []
+  },
+  {
+    "id": "17d7b47c33530dee",
+    "en": "The Highlands",
+    "zh": "高地",
+    "country": "美国",
+    "region": "密歇根州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 176.0382543744,
+    "notes": "Ikon 官方公布可滑地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 66
+      }
+    ],
+    "aliases": [
+      "The Highlands",
+      "高地"
+    ],
+    "children": []
+  },
+  {
+    "id": "3ff563efa924b3d8",
+    "en": "The Summit at Snoqualmie",
+    "zh": "斯诺夸尔米山顶",
+    "country": "美国",
+    "region": "华盛顿州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 807.75254191104,
+    "notes": "Ikon 官方公布可滑地形；组成雪场见明细表",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 35
+      }
+    ],
+    "aliases": [
+      "The Summit at Snoqualmie",
+      "斯诺夸尔米山顶"
+    ],
+    "children": [
+      "48a6bb6e50004c12",
+      "66156b9b757855cd",
+      "d036c235af1ae907",
+      "e71126dff4b4e848"
+    ]
+  },
+  {
+    "id": "60b08bfdc0e45af8",
+    "en": "Vail",
+    "zh": "韦尔",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 2151.7135597900797,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 8
+      }
+    ],
+    "aliases": [
+      "Vail",
+      "韦尔"
+    ],
+    "children": []
+  },
+  {
+    "id": "873c8ab7d8c8daaa",
+    "en": "Whitefish Mountain Resort",
+    "zh": "白鱼山",
+    "country": "美国",
+    "region": "蒙大拿州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1214.0569267199999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 13
+      }
+    ],
+    "aliases": [
+      "Whitefish Mountain Resort",
+      "白鱼山"
+    ],
+    "children": []
+  },
+  {
+    "id": "9de534eb59e96cdd",
+    "en": "Whitetail Resort",
+    "zh": "白尾",
+    "country": "美国",
+    "region": "宾夕法尼亚州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 48.5622770688,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 42
+      }
+    ],
+    "aliases": [
+      "Whitetail Resort",
+      "白尾"
+    ],
+    "children": []
+  },
+  {
+    "id": "78fc71838aa87e0c",
+    "en": "Wild Mountain",
+    "zh": "怀尔德山",
+    "country": "美国",
+    "region": "明尼苏达州",
+    "passes": [
+      "Ikon Pass（Bonus Mountain）"
+    ],
+    "area": 40.468564224,
+    "notes": "额外2天；有节假日限制；不属于Base/Session权益",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 87
+      }
+    ],
+    "aliases": [
+      "Wild Mountain",
+      "怀尔德山"
+    ],
+    "children": []
+  },
+  {
+    "id": "a30f382e13957687",
+    "en": "Wildcat Mountain",
+    "zh": "野猫山",
+    "country": "美国",
+    "region": "新罕布什尔州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 91.05426950399999,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 39
+      }
+    ],
+    "aliases": [
+      "Wildcat Mountain",
+      "野猫山"
+    ],
+    "children": []
+  },
+  {
+    "id": "7dc3de5e9b0cb292",
+    "en": "Wilmot Mountain",
+    "zh": "威尔莫特山",
+    "country": "美国",
+    "region": "威斯康星州",
+    "passes": [
+      "Epic Pass（全版）"
+    ],
+    "area": 48.5622770688,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Epic 26-27",
+        "row": 43
+      }
+    ],
+    "aliases": [
+      "Wilmot Mountain",
+      "威尔莫特山"
+    ],
+    "children": []
+  },
+  {
+    "id": "b96764992424c52c",
+    "en": "Winter Park Resort",
+    "zh": "冬季公园",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": 1246.83646374144,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 21
+      }
+    ],
+    "aliases": [
+      "Winter Park Resort",
+      "冬季公园"
+    ],
+    "children": []
+  },
+  {
+    "id": "878724672e8ffaa7",
+    "en": "Wolf Creek Ski Area",
+    "zh": "狼溪",
+    "country": "美国",
+    "region": "科罗拉多州",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 647.497027584,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 39
+      }
+    ],
+    "aliases": [
+      "Wolf Creek Ski Area",
+      "狼溪"
+    ],
+    "children": []
+  },
+  {
+    "id": "72982ce3328367fa",
+    "en": "Baqueira Beret",
+    "zh": "巴凯拉贝雷特",
+    "country": "西班牙",
+    "region": "加泰罗尼亚/阿兰谷",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 2273,
+    "notes": "官方滑雪区域，含雪道外地形",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 7
+      }
+    ],
+    "aliases": [
+      "Baqueira Beret",
+      "巴凯拉贝雷特"
+    ],
+    "children": []
+  },
+  {
+    "id": "cd0c97b6be854e35",
+    "en": "Cerro Castor",
+    "zh": "卡斯托尔山",
+    "country": "阿根廷",
+    "region": "火地岛省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 650,
+    "notes": "公布可滑地形；可能包含非压雪道区域",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 36
+      }
+    ],
+    "aliases": [
+      "Cerro Castor",
+      "卡斯托尔山"
+    ],
+    "children": []
+  },
+  {
+    "id": "a5fc24a380d97a8f",
+    "en": "Cerro Catedral",
+    "zh": "卡特德拉尔山",
+    "country": "阿根廷",
+    "region": "里奥内格罗省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1200,
+    "notes": "可滑地形含非压雪区；非仅600公顷雪道",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 14
+      }
+    ],
+    "aliases": [
+      "Cerro Catedral",
+      "卡特德拉尔山"
+    ],
+    "children": []
+  },
+  {
+    "id": "ee99b9651eaaae93",
+    "en": "Chapelco",
+    "zh": "查佩尔科",
+    "country": "阿根廷",
+    "region": "内乌肯省",
+    "passes": [
+      "不支持 Ikon / Epic"
+    ],
+    "area": 1600,
+    "notes": "省政府公布可滑区，含广阔山地；非仅压雪道",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "非两PASS Top50参考",
+        "row": 10
+      }
+    ],
+    "aliases": [
+      "Chapelco",
+      "查佩尔科"
+    ],
+    "children": []
+  },
+  {
+    "id": "5f74938528964797",
+    "en": "Mona Yongpyong",
+    "zh": "龙平",
+    "country": "韩国",
+    "region": "江原特别自治道",
+    "passes": [
+      "Ikon Pass（全版）"
+    ],
+    "area": null,
+    "notes": "官方标示 4240 acres，但疑含度假区/山地总范围，不能当作雪道面积；待核",
+    "parents": [],
+    "sources": [
+      {
+        "sheet": "Ikon 26-27",
+        "row": 91
+      }
+    ],
+    "aliases": [
+      "Mona Yongpyong",
+      "龙平"
+    ],
+    "children": []
+  }
+]
