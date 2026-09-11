@@ -1,4 +1,5 @@
-// Reviewed evidence edition: 2026-09-11. Scenario statements are editorial inference, not calibrated probabilities.
+// Destination evidence edition: 2026-09-12. Inference is not a calibrated forecast.
+import destinations from './destination-evidence.js';
 export const evidenceSources={
 wb:{name:'惠斯勒官方 · Mountain Statistics',url:'https://www.whistlerblackcomb.com/the-mountain/about-the-mountain/mountain-info.aspx',date:'核查 2026-09-11'},
 niseko:{name:'Niseko United · 2022/23 雪季回顾',url:'https://www.niseko.ne.jp/ja/news/how-much-did-it-snow-in-niseko-winter-2022-23/',date:'发布 2023-05-23'},
@@ -54,9 +55,40 @@ metrics:['高海拔不创造降水，仍需看风暴能否抵达。','高处可�
 good:'冷风暴带来补雪，随后风减弱，高处与连接缆车正常开放',bad:'长时间少雪或强风限制高处，低处同时出现明显冻融',watch:'分区雪况、高处风速、跨境连接与回程雪道开放',
 monthly:['十二月确认预期滑行区域雪底和开放，冰川存在不等于所有线路开放。','一月同时看低温和风，保雪条件与可利用地形可能不同步。','二月关注风暴补雪与风后开放，不承诺跨境连滑。','三月利用不同海拔与坡向择时滑行，午后雪面可能明显变化。','四月以实际开放的高处和春雪窗口为主，勿将顶部雪况代表回程低处。']}
 };
+const northMonths=[
+'十二月｜建立雪底：先核实目标线路是否正式开放；设施、地图和历史开场日期都不等于本季全开。',
+'一月｜观察冷暖过程：隆冬只是季节背景，低温与降水是否重合、雪后是否回暖仍需临近预报。',
+'二月｜区分雪底与新雪：已经形成覆盖不代表持续有粉雪；暖雨、风和整备可能改变表面。',
+'三月｜按日照择时：昼夜冻融影响增大，比较早间硬面与日间软化，具体取决于当地温度。',
+'四月｜先核实运营：即使高处仍有残雪或新雪，也不等于全场、连接道或缆车持续开放。'
+];
+const southMonths=[
+'十二月｜当地初夏：不将北半球开季逻辑套用这里；先查是否存在官方明确的特殊滑雪运营。',
+'一月｜当地夏季：观光缆车开放和山顶残雪不能证明常规滑雪开放。',
+'二月｜当地夏末：本页不据此预测粉雪窗口；冬季地形优势不能当作夏季可滑证据。',
+'三月｜当地入秋：偶发降雪不能替代连续雪底与正式开季公告。',
+'四月｜当地秋季：关注接下来南半球冬季的开季准备，不预设四月已有常规滑雪服务。'
+];
+for(const d of destinations){
+ const key='destination_'+d.id;
+ if(studies[d.id])throw new Error('Duplicate destination evidence: '+d.id);
+ evidenceSources[key]={name:d.zh+' · '+d.sourceTitle,url:d.url,date:d.sourceBasis+'；内容复核 '+d.reviewed};
+ const seasonal=d.south?southMonths:northMonths;
+ studies[d.id]={name:d.zh,local:d,south:d.south,reviewed:d.reviewed,claim:d.implication,
+ facts:[['目的地事实',d.fact,key]],
+ baseline:'本条证据支持地形、观测或运营条件的判断；它不是该雪场2026/27逐月降雪量的测算。尚未接入统一测点的长期月度序列，也未完成历史回测。历史公告只用于说明机制，规划项目须以投运公告复核。',
+ chain:[['核查来源',d.fact,key],['事实意味着什么',d.implication,null],['适用边界',d.south?'十二月至四月对应当地夏秋；以上冬季地形或设施信息不能作为本时间范围可滑的证明。':'地形与设施不能确定未来风暴出现日期，也不能从区域ENSO倾向推导出这里每月增雪或减雪的幅度。',null],['出行复核',d.watch+'。将观测日期、目标雪区和正式开放状态一起核对。',null]],
+ monthly:seasonal.map(t=>t+' 本场重点：'+d.watch+'。'),
+ good:d.south?'官方明确公布特殊滑雪运营，且目标区域有连续覆盖并正式开放':'目标区域有足够覆盖，近期补雪或整备改善雪面，且所需设施正常开放',
+ bad:d.south?'仅有观光开放或短暂残雪，没有常规滑雪服务':'目标区域覆盖不足，暖雨回冻或风影响雪面，或关键入口与设施关闭',
+ watch:d.watch};
+}
+export const evidenceCoverage={total:Object.keys(studies).length,destinationRecords:destinations.length,historicalSeries:Object.values(studies).filter(s=>s.history).length,reviewed:'2026-09-12'};
 const stages=['雪底尚在建立，先确认开放。','隆冬有利保雪只是季节背景，仍需降水配合。','雪底与暖过程共同影响体验。','日照和冻融让时段选择更重要。','运营日历优先于任何雪量判断。'];
-export function monthEvidence(id,i){const s=studies[id];if(!s||i<0||i>4)return null;return {base:s.monthly[i],good:`如果${s.good}，则可上调对近期雪面的期待。${stages[i]}`,bad:`如果${s.bad}，则应下调体验预期或调整滑行区域。`,trigger:s.watch,reason:stages[i]};}
+export function monthEvidence(id,i){const s=studies[id];if(!s||!Number.isInteger(i)||i<0||i>4)return null;const stage=s.south?southMonths[i]:stages[i];return {base:s.monthly[i],good:`如果${s.good}，${s.south?'才有依据进一步核实特殊滑雪行程。':'可再结合当日雪报调整滑行区域与时段。'}`,bad:`如果${s.bad}，则应调整行程预期。`,trigger:s.watch,reason:stage};}
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function source(key){const s=evidenceSources[key];return s?`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} ↗</a><small>${esc(s.date)}</small>`:'';}
-export function studyHTML(id){const s=studies[id];if(!s)return '';return `<section class="evidence" aria-labelledby="evidence-title"><span class="kicker">EVIDENCE / 深度分析 · 证据版</span><h2 id="evidence-title">为什么这样判断？</h2><p class="evidence-claim">${esc(s.claim)}</p><div class="evidence-status">已核查资料与推理链 · 未完成历史回测 · 不代表预测准确率更高</div><details open><summary>事实与历史基线</summary><div class="fact-grid">${s.facts.map(f=>`<article><strong>${esc(f[0])}</strong><p>${esc(f[1])}</p>${source(f[2])}</article>`).join('')}</div>${s.history?`<figure class="history-chart"><figcaption>历史累计降雪 · Grand Hirafu 中山观测点（cm）</figcaption>${s.history.map(([y,v])=>`<div class="history-row"><span>${y}</span><div><i style="width:${v/1800*100}%"></i></div><b>${v.toLocaleString()}</b></div>`).join('')}<p>统一零起点，图轴上限1,800 cm；不是雪深，不是2026/27预测。</p>${source('niseko')}</figure>`:''}<p class="caption">${esc(s.baseline)}</p></details><details><summary>四步判断：从证据到出行建议</summary><ol class="reason-chain">${s.chain.map(x=>`<li><span>${esc(x[0])}</span><p>${esc(x[1])}</p>${x[2]?source(x[2]):'<small>本站物理机制推断或出行建议，未赋予统计概率。</small>'}</li>`).join('')}</ol></details><details><summary>把雪质拆开看：四个维度</summary><div class="metric-grid">${['新雪机会','保雪条件','暖雨与冻融','可滑稳定性'].map((n,i)=>`<article><h3>${n}</h3><p>${esc(s.metrics[i])}</p></article>`).join('')}</div></details><details><summary>可信度与更新规则</summary><p>“深度分析”表示补充了目的地证据，不是高准确率评级。当前未接入雪场级校准模型，未完成对照常年气候基线的历史回测，不发布数字概率或综合分数。</p><p>如后续出现相反的区域展望、暖雨或缆车开放变化，应调整判断。月份越远，越应以季节与运营核查为主。本站内容仍需人工更新，暂不自动监控天气。</p>${source('skill')}</details></section>`;}
+export function studyHTML(id){const s=studies[id];if(!s)return '';if(s.local)return localStudyHTML(s);return `<section class="evidence" aria-labelledby="evidence-title"><span class="kicker">EVIDENCE / 目的地分析 · 证据版</span><h2 id="evidence-title">为什么这样判断？</h2><p class="evidence-claim">${esc(s.claim)}</p><div class="evidence-status">已核查资料与推理链 · 未完成历史回测 · 不代表预测准确率更高</div><details open><summary>事实与历史基线</summary><div class="fact-grid">${s.facts.map(f=>`<article><strong>${esc(f[0])}</strong><p>${esc(f[1])}</p>${source(f[2])}</article>`).join('')}</div>${s.history?`<figure class="history-chart"><figcaption>历史累计降雪 · Grand Hirafu 中山观测点（cm）</figcaption>${s.history.map(([y,v])=>`<div class="history-row"><span>${y}</span><div><i style="width:${v/1800*100}%"></i></div><b>${v.toLocaleString()}</b></div>`).join('')}<p>统一零起点，图轴上限1,800 cm；不是雪深，不是2026/27预测。</p>${source('niseko')}</figure>`:''}<p class="caption">${esc(s.baseline)}</p></details><details><summary>四步判断：从证据到出行建议</summary><ol class="reason-chain">${s.chain.map(x=>`<li><span>${esc(x[0])}</span><p>${esc(x[1])}</p>${x[2]?source(x[2]):'<small>本站物理机制推断或出行建议，未赋予统计概率。</small>'}</li>`).join('')}</ol></details><details><summary>把雪质拆开看：四个维度</summary><div class="metric-grid">${['新雪机会','保雪条件','暖雨与冻融','可滑稳定性'].map((n,i)=>`<article><h3>${n}</h3><p>${esc(s.metrics[i])}</p></article>`).join('')}</div></details><details><summary>可信度与更新规则</summary><p>“目的地分析”表示补充了目的地证据，不是高准确率评级。当前未接入雪场级校准模型，未完成对照常年气候基线的历史回测，不发布数字概率或综合分数。</p><p>如后续出现相反的区域展望、暖雨或缆车开放变化，应调整判断。月份越远，越应以季节与运营核查为主。本站内容仍需人工更新，暂不自动监控天气。</p>${source('skill')}</details></section>`;}
 export function scenarioHTML(id,i){const m=monthEvidence(id,i);return m?`<section class="scenarios" aria-label="所选月份的判断情景"><div class="section-head"><div><span class="kicker">IF / THEN</span><h2>什么情况会改变判断？</h2></div><span class="confidence">条件情景 · 未赋予概率</span></div><div class="scenario-grid"><article><h3>主要判断</h3><p>${esc(m.base)}</p></article><article><h3>偏好情景</h3><p>${esc(m.good)}</p></article><article><h3>不利情景</h3><p>${esc(m.bad)}</p></article></div><p class="watch-trigger"><strong>出发前复核：</strong>${esc(m.trigger)}。本页没有实时获取这些指标。</p></section>`:'';}
+
+function localStudyHTML(s){const d=s.local;return `<section class="evidence" aria-labelledby="evidence-title"><span class="kicker">EVIDENCE / 目的地证据分析</span><h2 id="evidence-title">为什么这样判断？</h2><p class="evidence-claim">${esc(d.implication)}</p><div class="evidence-status">已补充目的地资料 · 未完成历史回测 · 不代表预测准确率更高</div><details open><summary>来源确认的事实</summary><p>${esc(d.fact)}</p>${source('destination_'+d.id)}<p class="caption">资料核查记录与分析版本日期分开保留。动态页面可能更新；历史事实不表示本季仍处于同一状态。</p></details><details open><summary>从事实到出行判断</summary><ol class="reason-chain">${s.chain.slice(1).map(x=>`<li><span>${esc(x[0])}</span><p>${esc(x[1])}</p><small>本站分析与建议，非来源机构发布的雪场预报。</small></li>`).join('')}</ol></details><details><summary>证据能说明什么，还缺什么？</summary><p>${esc(s.baseline)}</p><p>以下月份使用${s.south?'南半球夏秋':'北半球冬春'}的共同季节框架，再列出本目的地的复核重点。这不是五次独立的数值模型预测，不提供未经校准的雪量、概率或评分。造雪覆盖不等于自然降雪，地图地形不等于已开放地形。</p>${source('skill')}</details></section>`;}
