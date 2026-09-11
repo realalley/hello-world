@@ -2,7 +2,7 @@
   "name": "hello-world",
   "type": "pages",
   "framework": "static",
-  "buildCommand": "",
-  "outputDir": ".",
+  "buildCommand": "npm run build",
+  "outputDir": "dist",
   "env": {}
 }
