@@ -1,0 +1,8 @@
+{
+  "name": "hello-world",
+  "type": "pages",
+  "framework": "static",
+  "buildCommand": "",
+  "outputDir": ".",
+  "env": {}
+}
