@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "ski-buddy",
   "type": "pages",
-  "framework": "static",
+  "framework": "react",
   "buildCommand": "npm run build",
   "outputDir": "dist",
   "env": {}
